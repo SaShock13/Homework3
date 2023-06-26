@@ -1,0 +1,8 @@
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\bin\Debug\SkillboxHomeWork3_3.exe.config
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\bin\Debug\SkillboxHomeWork3_3.exe
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\bin\Debug\SkillboxHomeWork3_3.pdb
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\obj\Debug\SkillboxHomeWork3_3.csproj.AssemblyReference.cache
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\obj\Debug\SkillboxHomeWork3_3.csproj.SuggestedBindingRedirects.cache
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\obj\Debug\SkillboxHomeWork3_3.csproj.CoreCompileInputs.cache
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\obj\Debug\SkillboxHomeWork3_3.exe
+C:\Skillbox\MyHomeworks\SkillboxHomeWork3\SkillboxHomeWork3_3\obj\Debug\SkillboxHomeWork3_3.pdb
